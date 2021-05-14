@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<actionScriptProperties analytics="false" mainApplicationPath="FinalVersionTitanic.as" projectUUID="f9a360af-b3f4-4d5e-b413-26d38577b6dc" version="11">
+  <compiler additionalCompilerArguments="-locale en_US" advancedTelemetry="false" autoRSLOrdering="true" copyDependentFiles="true" fteInMXComponents="false" generateAccessible="false" htmlExpressInstall="true" htmlGenerate="true" htmlHistoryManagement="true" htmlPlayerVersionCheck="true" includeNetmonSwc="false" outputFolderPath="bin-debug" removeUnusedRSL="true" sourceFolderPath="src" strict="true" targetPlayerVersion="0.0.0" useApolloConfig="false" useDebugRSLSwfs="true" useFlashSDK="true" verifyDigests="true" warn="true">
+    <compilerSourcePath/>
+    <libraryPath defaultLinkType="0">
+      <libraryPathEntry kind="4" path="">
+        <excludedEntries>
+          <libraryPathEntry kind="3" linkType="1" path="${PROJECT_FRAMEWORKS}/libs/automation_charts.swc" useDefaultLinkType="false"/>
+          <libraryPathEntry kind="1" linkType="1" path="${PROJECT_FRAMEWORKS}/locale/{locale}"/>
+          <libraryPathEntry kind="3" linkType="1" path="${PROJECT_FRAMEWORKS}/libs/advancedgrids.swc" useDefaultLinkType="false"/>
+          <libraryPathEntry kind="3" linkType="1" path="${PROJECT_FRAMEWORKS}/libs/qtp.swc" useDefaultLinkType="false"/>
+          <libraryPathEntry kind="3" linkType="1" path="${PROJECT_FRAMEWORKS}/libs/automation_air.swc" useDefaultLinkType="false"/>
+          <libraryPathEntry kind="3" linkType="1" path="${PROJECT_FRAMEWORKS}/libs/charts.swc" useDefaultLinkType="false"/>
+          <libraryPathEntry kind="3" linkType="1" path="${PROJECT_FRAMEWORKS}/libs/framework.swc" useDefaultLinkType="false"/>
+          <libraryPathEntry kind="3" linkType="1" path="${PROJECT_FRAMEWORKS}/libs/mx/mx.swc" useDefaultLinkType="false"/>
+          <libraryPathEntry kind="3" linkType="1" path="${PROJECT_FRAMEWORKS}/libs/netmon.swc" useDefaultLinkType="false"/>
+          <libraryPathEntry kind="3" linkType="1" path="${PROJECT_FRAMEWORKS}/libs/spark.swc" useDefaultLinkType="false"/>
+          <libraryPathEntry kind="3" linkType="1" path="${PROJECT_FRAMEWORKS}/libs/sparkskins.swc" useDefaultLinkType="false"/>
+          <libraryPathEntry kind="3" linkType="1" path="${PROJECT_FRAMEWORKS}/libs/rpc.swc" useDefaultLinkType="false"/>
+          <libraryPathEntry kind="3" linkType="1" path="${PROJECT_FRAMEWORKS}/libs/datavisualization.swc" useDefaultLinkType="false"/>
+          <libraryPathEntry kind="3" linkType="1" path="${PROJECT_FRAMEWORKS}/libs/qtp_air.swc" useDefaultLinkType="false"/>
+          <libraryPathEntry kind="3" linkType="1" path="${PROJECT_FRAMEWORKS}/libs/videoPlayer.swc" useDefaultLinkType="false"/>
+          <libraryPathEntry kind="3" linkType="1" path="${PROJECT_FRAMEWORKS}/libs/spark_dmv.swc" useDefaultLinkType="false"/>
+          <libraryPathEntry kind="3" linkType="1" path="${PROJECT_FRAMEWORKS}/libs/automation.swc" useDefaultLinkType="false"/>
+          <libraryPathEntry kind="3" linkType="1" path="${PROJECT_FRAMEWORKS}/libs/automation_dmv.swc" useDefaultLinkType="false"/>
+          <libraryPathEntry kind="3" linkType="1" path="${PROJECT_FRAMEWORKS}/libs/flash-integration.swc" useDefaultLinkType="false"/>
+          <libraryPathEntry kind="3" linkType="1" path="${PROJECT_FRAMEWORKS}/libs/automation_flashflexkit.swc" useDefaultLinkType="false"/>
+          <libraryPathEntry kind="3" linkType="1" path="${PROJECT_FRAMEWORKS}/libs/automation_agent.swc" useDefaultLinkType="false"/>
+        </excludedEntries>
+      </libraryPathEntry>
+      <libraryPathEntry kind="1" linkType="1" path="${FLEXUNIT_LIB_LOCATION}/version4libs/Common"/>
+      <libraryPathEntry kind="1" linkType="1" path="${FLEXUNIT_LIB_LOCATION}/version4libs/ASProject"/>
+      <libraryPathEntry kind="1" linkType="1" path="${FLEXUNIT_LIB_LOCATION}/version4libs/ASProject_Extended"/>
+      <libraryPathEntry kind="1" linkType="1" path="${FLEXUNIT_LOCALE_LOCATION}"/>
+    </libraryPath>
+    <sourceAttachmentPath/>
+  </compiler>
+  <applications>
+    <application path="FlexUnitCompilerApplication.as"/>
+    <application path="scenesA/RebeccaTalk.as"/>
+    <application path="scenesA/RebeccaIgnore.as"/>
+    <application path="scenesC/TowelRoom.as"/>
+    <application path="endings/BadEndingChangeAppearance.as"/>
+    <application path="scenesA/MissParkersRoom.as"/>
+    <application path="stateBeforeEnding/EscapeC48.as"/>
+    <application path="stateBeforeEnding/CharacterDie.as"/>
+    <application path="scenesA/HallwayOut.as"/>
+    <application path="transition/TransitionBtoC.as"/>
+    <application path="stateBeforeEnding/EscapeC40.as"/>
+    <application path="scenesC/MissParkersRoomC.as"/>
+    <application path="endings/BadEndingDisappear.as"/>
+    <application path="scenesA/Ballroom.as"/>
+    <application path="scenesB/BallroomB.as"/>
+    <application path="transition/Test.as"/>
+    <application path="scenesA/GuideMeet.as"/>
+    <application path="scenesB/DrinkSection.as"/>
+    <application path="scenesC/PreHelpGerman.as"/>
+    <application path="scenesC/HallwayC.as"/>
+    <application path="scenesB/DessertSection.as"/>
+    <application path="smallGame/FlashlightTyping.as"/>
+    <application path="scenesA/HallwayIn.as"/>
+    <application path="scenesC/BackDeckC.as"/>
+    <application path="scenesA/Opt2Out.as"/>
+    <application path="smallGame/SwimFast.as"/>
+    <application path="scenesA/Opt1Room.as"/>
+    <application path="scenesC/FrontDeckC.as"/>
+    <application path="stateBeforeEnding/Escape3.as"/>
+    <application path="FinalVersionTitanic.as"/>
+    <application path="scenesC/PreHelpRebecca.as"/>
+    <application path="endings/GoodEnding.as"/>
+    <application path="scenesB/HallwayFL.as"/>
+    <application path="stateBeforeEnding/EscapeC50.as"/>
+    <application path="stateBeforeEnding/DieinLaundryRoom.as"/>
+    <application path="transition/TransitionAtoB.as"/>
+    <application path="scenesC/CharacterSwimC.as"/>
+    <application path="scenesC/BallroomC.as"/>
+    <application path="scenesA/VanityforKnife.as"/>
+    <application path="scenesC/KnifeonBoat.as"/>
+    <application path="scenesB/NightDeck.as"/>
+    <application path="scenesA/Opt1Out.as"/>
+    <application path="stateBeforeEnding/EscapeC43.as"/>
+    <application path="scenesC/HelpGermanonBoat.as"/>
+    <application path="scenesC/IntheWater.as"/>
+    <application path="scenesA/AssigningJob.as"/>
+    <application path="stateBeforeEnding/EscapeC20.as"/>
+    <application path="scenesB/MissParkersRoomB.as"/>
+    <application path="smallGame/SeekingRebecca.as"/>
+  </applications>
+  <modules/>
+  <workers/>
+  <buildCSSFiles/>
+  <flashCatalyst validateFlashCatalystCompatibility="false"/>
+</actionScriptProperties>
